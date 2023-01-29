@@ -1,4 +1,4 @@
-# Simple TinyGL-experiment with Amiga
+# Simple TinyGL experiment with Amiga
 
 Tested on emulation with AmiKit. Can be compiled with GCC, just type "make" in the root directory. Needs 68020 CPU.
 
